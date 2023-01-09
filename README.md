@@ -1,5 +1,5 @@
 # VARiety
-## Subject : Emotional SNS using VR for "me"
+## Subject : Emotional SNS using VR for "me" - Inside
 
 ### Main Functions
 1. Room for individuals
